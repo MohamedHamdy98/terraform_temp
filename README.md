@@ -1,5 +1,5 @@
 
-#Terraform Command 
+# Terraform Command 
     - terraform init
     - terraform plan
     - terraform apply -auto-approve
