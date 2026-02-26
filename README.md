@@ -6,3 +6,5 @@
     - terraform destroy
     - terraform state list
     - terraform state show (resource name)
+    - terraform apply -auto-approve -var-file="staging.tfvars"
+    - 
